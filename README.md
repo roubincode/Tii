@@ -1,6 +1,8 @@
 # Tii
-这是一个C#语言开发的服务器应用框架，主要应用于网络游戏的实时同步，因为作者一直致力于taikr.com这样一个游戏开发的交流学习网站的传播与发展，所以命名为Tii。 
-还有在开发维护另一个服务器框架TiServer，这包含更多的具体应用如MMO,Moba,RTS等，Tii为TiServer的框架核心。  
+Tii是以ETServer框架的核心模块为基础开发而来的，原ETServer框架地址：https://github.com/egametang/ET。  
+这是一个C#语言开发的服务器应用框架，主要应用于网络游戏的实时同步，因为作者一直致力于taikr.com这样一个游戏开发的交流学习网站的传播与发展，所以命名为Tii。  
+作者开发维护的另一个服务器框架TiServer，这包含更多的具体应用如MMO,Moba,RTS等，而Tii为TiServer的框架核心。  
+目前Tii使用的是ETServer5.0的核心。
 
 ## 使用指南
 1 安装.NetCore SDK (ETCore4.0，5.0使用netcore2.2.300+,ETCore6.0使用netcore3.0+)   
