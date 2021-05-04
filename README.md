@@ -19,7 +19,7 @@ Tii是以ETServer框架的核心模块为基础开发而来的，原ETServer框�
 如果打开运行过项目，把你的解决方案中的所有项目中的obj目录全部删除，打开code重新Restore
 
 ### 前端运行  
-2 客户端要求unity2018.3以上  
+1 客户端要求unity2018.3以上  
 ### 后端运行  
 1 用Visaul Studio 打开Server解决方案编译运行，或者命令行运行生成的App.dll  
 2 需要单独编译Server/Hotfix/Server.Hotfix.csproj　(用命令行或用visaul studio单独编译都可以)  
