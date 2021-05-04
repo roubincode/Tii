@@ -24,7 +24,7 @@ namespace ETModel
         public long CharaId { get; set; }
 
 		public Player player {get;set;}
-		
+
 		public UnitType UnitType { get; private set; }   
 		
 		public void Awake(UnitType unitType)
@@ -44,7 +44,6 @@ namespace ETModel
 	}
 }
 #else
-using PF;
 using UnityEngine;
 using Quaternion = UnityEngine.Quaternion;
 using Vector3 = UnityEngine.Vector3;
