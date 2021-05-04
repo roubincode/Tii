@@ -33,7 +33,7 @@ namespace ETModel
 
         // unit实例id
         public long UnitId { get; set; }
-        // gamer实例id
+        // player实例id
 		public long ActorId { get; set; }
         
         public void Awake(long id)
