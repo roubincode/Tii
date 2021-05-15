@@ -5,13 +5,13 @@ using System.IO;
 using System.Linq;
 using UnityEngine;
 using System.Reflection;
-
+#pragma warning disable CS0649
 namespace ETModel
 {
 	public sealed class Hotfix: Object
 	{
+		
 		// private Assembly assembly;
-
 		private IStaticMethod start;
 		private List<Type> hotfixTypes;
 
