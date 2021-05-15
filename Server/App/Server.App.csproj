@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework><netcoreapp3 class="1"></netcoreapp3></TargetFramework>
     <AssemblyName>App</AssemblyName>
     <RootNamespace>App</RootNamespace>
     <LangVersion>7.3</LangVersion>
